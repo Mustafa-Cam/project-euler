@@ -1,0 +1,1 @@
+# project euler kısmındaki görevleri yerine getirmeye çalışıyoruz
